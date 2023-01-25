@@ -1,1 +1,2 @@
-# Quest-es-Logica-JavaScript![Screenshot_1](https://user-images.githubusercontent.com/99056912/213960304-34efb429-63c0-4780-b79e-3d5204848ad8.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/99056912/214451957-a70f6409-2fb3-4bf9-a4a6-b6b643b53137.png)
